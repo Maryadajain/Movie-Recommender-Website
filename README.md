@@ -8,7 +8,7 @@ An intelligent and interactive **Movie Recommendation System** that recommends m
 ## Features
 
 - Recommends top 5 similar movies based on your input
-- Displays **movie posters** for a visually rich experience
+- Displays movie posters for a visually rich experience
 - Fast recommendations using a precomputed similarity matrix
 - Content-based filtering using cosine similarity
 - Built with Streamlit for a sleek web UI
@@ -20,7 +20,7 @@ An intelligent and interactive **Movie Recommendation System** that recommends m
 
 1. User selects a movie from the dropdown.
 2. The backend uses a precomputed similarity matrix to find similar titles.
-3. The top 5 most similar movies are displayed **with posters** using The Movie Database (TMDB) API.
+3. The top 5 most similar movies are displayed with posters using The Movie Database (TMDB) API.
 4. The app runs smoothly in a browser via Streamlit.
 
 
