@@ -18,7 +18,7 @@ An intelligent and interactive **Movie Recommendation System** that suggests mov
 - Built with **Streamlit** for a smooth web interface
 - **Live deployment** on **Streamlit Community Cloud**
 
----
+
 
 ## How It Works
 
