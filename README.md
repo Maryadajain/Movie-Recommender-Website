@@ -12,7 +12,7 @@ An intelligent and interactive **Movie Recommendation System** that suggests mov
 ## Features
 
 - Recommends **top 5 similar movies** based on selected input
-- 🖼Displays **movie posters** for a visually rich experience
+- Displays **movie posters** for a visually rich experience
 - Fast performance using **precomputed similarity matrix**
 - Uses **cosine similarity** for content-based filtering
 - Built with **Streamlit** for a smooth web interface
